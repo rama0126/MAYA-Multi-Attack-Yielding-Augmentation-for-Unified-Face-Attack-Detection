@@ -1,7 +1,5 @@
-# MAYA: Multi-Attack-Yielding-Augmentation-for-Unified-Face-Attack-Detection
-Official repository of "MAYA: Multi-Attack Yielding Augmentation for Unified Face Attack Detection, ICCVw 2025"
-
-
+# SIREN SHIELD  
+Chung-Ang University
 
 ## Dataset Directory
 
@@ -29,7 +27,6 @@ NVIDIA GeForce RTX A6000
 
 # Workflow
 ## 1. Data preprocessing
-Get '''shape_predictor_68_face_landmarks.dat''' for preprocessing and put it to ./face_parsing
 
     python data_preprocessing.py --base_dir [DATASET_PATH]
 
